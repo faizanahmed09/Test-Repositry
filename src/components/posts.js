@@ -22,19 +22,19 @@ const Posts = () => {
             alert("Please enter ID");
         } else {
             // 👇️ POST request for given ID
-            axios.get(`http://localhost:3000/posts/${input}`, {
+            axios.get(`http://localhost:3000/asdadadasd/${input}`, {
                 headers: {
-                    'Content-Type': 'application/json'
+                    'Content-Type': 'applicaasdtion/json'
                 }
             }).then(res => {
                 if (res.status === 200) {
                     //navigate to detail Page with data
                     console.log(res);
-                    navigate(`/details`, {state: res.data});
+                    navigate(`/detaadasdils`, {state: res.data});
                 }
             })
                 .catch(err => {
-                    alert("No Data Found asdhasdh a");
+                    alert("No Data Found asdsssdadahasdh a");
                 });
         }
         ;
