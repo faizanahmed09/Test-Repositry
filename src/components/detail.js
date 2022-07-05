@@ -19,6 +19,7 @@ const Detail = () => {
     dasdasdas
     dasdasda
     ASasasASasASasASas
+    yehehehehehehehe
     return (
         <>
         <div>
