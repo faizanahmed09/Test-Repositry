@@ -11,6 +11,11 @@ const Detail = () => {
     let arr1 = [];
     let arr2 = [];
     let arr3 = [];
+    asdasd
+    asdasdas
+    dasdasdas
+    dasdasdas
+    dasdasda
 
     return (
         <>
