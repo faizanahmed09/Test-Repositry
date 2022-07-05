@@ -11,7 +11,7 @@ const Detail = () => {
     let arr1 = [];
     let arr2 = [];
     let arr3 = [];
-    
+    gggg
     yrhtfhfh
     asdasd
     asdasdas
