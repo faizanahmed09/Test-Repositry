@@ -5,6 +5,7 @@ import { useNavigate } from "react-router";
 
 
 const Posts = () => {
+    let [posts, setPosts] = useState([]);
     //Making State to store ID entered by user
     const [input, setInput] = useState('');
     //initializing Navigate to Detail Page

@@ -7,6 +7,10 @@ const Detail = () => {
     //UseLocation to get Data from Homepage
     const location = useLocation();
     const {state} = location;
+    let arr = [];
+    let arr1 = [];
+    let arr2 = [];
+    let arr3 = [];
 
     return (
         <>
